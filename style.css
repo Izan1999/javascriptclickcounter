@@ -1,0 +1,50 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: lightblue;
+}
+
+#titulo{
+  text-align: center;
+  margin-top: 40px;
+  font-weight: 800;
+}
+
+#contenedor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px auto;
+}
+
+#clicks{
+  font-weight: 800;
+  font-size: 70px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#aumentar{
+  font-size: 20px;
+  padding: 10px;
+  border: solid 3px white;
+  border-radius: 400px;
+  color: white;
+  background-color: black;
+  box-shadow: 3px 4px black;
+}
+
+#disminuir {
+  font-size: 20px;
+  padding: 10px;
+  border: solid 3px white;
+  border-radius: 400px;
+  color: white;
+  background-color: black;
+  box-shadow: 3px 4px black;
+}
